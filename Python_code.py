@@ -1,5 +1,5 @@
 def print_rangoli(size):
-    width  = size*4-3
+    width  = (size*4)-2
     string = ''
 
     for i in range(1,size+1):
